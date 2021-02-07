@@ -8,4 +8,4 @@ My name is Eligijus Skersonas and I'm a competitive programmer and student at Tr
 - 💬 Ask me about Algorithms and Data Structures, Java or ARM Assembly
 - 😄 Pronouns: He/Him
 
-[![Eligijus's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Eligijus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli-scorpio)](https://github.com/eli-scorpio/github-readme-stats)
