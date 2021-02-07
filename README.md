@@ -11,7 +11,7 @@ My name is Eligijus Skersonas and I'm a competitive programmer and student at Tr
 - 😄 Pronouns: He/Him
 
 ## Languages and Skills:
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" height="100"> <img src="https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" width="100" height="100"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" height="100"> <img src="https://www.vhv.rs/dpng/d/574-5748769_c-logo-png-transparent-c-programming-language-logo.png" width="100" height="100"> 
 
 
    
