@@ -1,4 +1,4 @@
-### Hello and Welcome 👋
+### Welcome to my :octocat: profile!
 
 My name is Eligijus Skersonas and I'm a competitive programmer and student at Trinity College Dublin!!!
 
