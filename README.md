@@ -1,5 +1,7 @@
 ### Welcome to my :octocat: profile!
 
+![Student at Trinity College Dublin](https://imgur.com/onRsR0m)
+
 My name is Eligijus Skersonas and I'm a competitive programmer and student at Trinity College Dublin!!!
 
 - 📚 Recipient of the Trinity College Entrance Exhibition Award
