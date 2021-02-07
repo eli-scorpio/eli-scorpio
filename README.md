@@ -11,7 +11,7 @@ My name is Eligijus Skersonas and I'm a competitive programmer and student at Tr
 - 😄 Pronouns: He/Him
 
 ## Languages and Skills:
-  ![alt text](https://camo.githubusercontent.com/a6d3c0498e54924b281726fcd2eeaa0d913219b0b7aba81a1c3f7cb7a2f49002/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f31303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&psig=AOvVaw3zqytU-3joRMyBqIPE7ZUQ&ust=1612792345813000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDT1uj11-4CFQAAAAAdAAAAABAI" width="100" height="100">
 
    
 
