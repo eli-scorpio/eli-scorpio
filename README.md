@@ -8,5 +8,5 @@ My name is Eligijus Skersonas and I'm a competitive programmer and student at Tr
 - 💬 Ask me about Algorithms and Data Structures, Java or ARM Assembly
 - 😄 Pronouns: He/Him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli-scorpio&layout=compact)](https://github.com/eli-scorpio/github-readme-stats)
-[![Eligijus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eli-scorpio)](https://github.com/eli-scorpio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli-scorpio&layout=compact&theme=dark)](https://github.com/eli-scorpio/github-readme-stats)
+[![Eligijus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eli-scorpio&theme=dark)](https://github.com/eli-scorpio/github-readme-stats)
