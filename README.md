@@ -9,9 +9,8 @@ My name is Eligijus Skersonas and I'm a competitive programmer and student at Tr
 - 🌱 I’m currently learning Concurrent Programming, ARM Assembly (LPC2138), Algorithms and Data Structures and much more 😄
 - 💬 Ask me about Algorithms and Data Structures, Java or ARM Assembly
 - 😄 Pronouns: He/Him
-
 ## Languages and Skills:
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" height="100"> <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width="100" height="100"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" height="100"> <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width="100" height="100"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="100" height="100"> 
 
 
    
