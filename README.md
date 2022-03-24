@@ -22,8 +22,8 @@ const eli = {
   askMeAbout: ["Algos&DataStructures", "ComputerArchitecture"],
   technologies: {
     frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-    backend: ["Java", "Haskell", "MySQL", "C", "Python", "Prolog"],
-    other: ["Docker", "Git", "SSEintrinsics", "OpendMP"],
+    backend: ["Java", "Haskell", "C", "Python", "Prolog"],
+    other: ["Docker", "SSEintrinsics", "OpendMP", "MySQL"],
   }
 }
 ```
