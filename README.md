@@ -9,7 +9,7 @@
 <ul>
   <li>👋 Hi, I’m Eli</li>
   <li>❤️ I love solving problems and programming in Java.</li>
-  <li>📚 I’m currently learning React, MySQL, AI, Compiler Design and Concurrent Systems.</li>
+  <li>📚 I’m currently learning React, MySQL, AI, Flex&Bison, OpenMp and SSE intrinsics.</li>
   <li>💼 I'm a Demonstrator at Trinity College Dublin.</li>
   <li>💻 LinkedIn Website, https://www.linkedin.com/in/eligijus-skersonas/</li>
 </ul>
@@ -21,8 +21,8 @@ const eli = {
   code: ["Java", "C/C++", "MySQL", "Haskell", "Prolog"],
   askMeAbout: ["algorithms", "data structures", "computer architecture"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React", "Chart.js", "Node.js"],
-      backend: ["Java", "Haskell", "Prolog", "MySQL", "C/C++", "Python"],
+      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
+      backend: ["Java", "Haskell", "MySQL", "C/C++", "Python"],
       other: ["Docker", "Git", "SSE intrinsics", "OpendMP"],
   }
 }
