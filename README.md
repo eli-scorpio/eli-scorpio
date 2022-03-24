@@ -19,11 +19,11 @@
 const eli = {
   pronouns: "He" | "Him",
   code: ["Java", "C", "MySQL", "Haskell", "Python", "Prolog"],
-  askMeAbout: ["Algorithms&DataStructures", "ComputerArchitecture"],
+  askMeAbout: ["Algos&DataStructures", "ComputerArchitecture"],
   technologies: {
-     frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-     backend: ["Java", "Haskell", "MySQL", "C", "Python", "Prolog"],
-     other: ["Docker", "Git", "SSEintrinsics", "OpendMP"],
+    frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
+    backend: ["Java", "Haskell", "MySQL", "C", "Python", "Prolog"],
+    other: ["Docker", "Git", "SSEintrinsics", "OpendMP"],
   }
 }
 ```
