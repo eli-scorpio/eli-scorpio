@@ -7,7 +7,7 @@
 <p>I am a Computer Science Student, I'm a Competitive Programmer and my favourite language is Java.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @eli-scorpio</li>
+  <li>👋 Hi, I’m Eli</li>
   <li>❤️ I love solving problems and programming in Java.</li>
   <li>📚 I’m currently learning React, MySQL, AI, Compiler Design and Concurrent Systems.</li>
   <li>💼 I'm a Demonstrator at Trinity College Dublin.</li>
@@ -16,14 +16,14 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const eli = {
   pronouns: "He" | "Him",
-  code: ["Java", "C/C++", "MySQL", "Haskell", "Prolog", "Javascript", "Python", "HTML", "CSS"],
-  askMeAbout: ["algorithms", "data structures", "java", "computer architecture"],
+  code: ["Java", "C/C++", "MySQL", "Haskell", "Prolog"],
+  askMeAbout: ["algorithms", "data structures", "computer architecture"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap", "React", "Chart.js", "Node.js"],
-      backend: ["Java", "Haskell", "Prolog", "MySQL", "C/C++", "Python", "SSE intrinsics", "OpendMP"],
-      other: ["Docker", "Git"],
+      backend: ["Java", "Haskell", "Prolog", "MySQL", "C/C++", "Python"],
+      other: ["Docker", "Git", "SSE intrinsics", "OpendMP"],
   }
 }
 ```
@@ -31,9 +31,9 @@ const badri = {
 #### Cool Facts :octocat:
 > 🏆 Competed in Google HashCode
  > 
-> 📜 Recipient of the Entrance Exhibition Award by Trinity College Dublin
+> 🥇 Recipient of the Entrance Exhibition Award by Trinity College Dublin
  > 
-> 🔑 On track to recieve a first class honours 
+> 🏅 On track to recieve a first class honours 
  > 
 
 #### Popular Projects
@@ -60,6 +60,3 @@ const badri = {
 </a>
 <br />
 <br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eli-scorpio&theme=onedark" alt="eli-scorpio" />
-</p>
