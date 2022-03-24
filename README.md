@@ -1,10 +1,10 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/eli-scorpio">Eligijus Skersonas'</a> Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/eli-scorpio">Eligijus Skersonas'</a> Profile <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;I'm+a+Competitive+Programmer;I'm+a+Backend+Developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;I'm+a+Competitive+Programmer;My+Favourite+Language+is+Java" /></a>
 </p>
-<p>I am a Computer Science Student, I'm a Competitive Programmer and my favourite language is Java.</p>
+<p>I am a Computer Science Student, Competitive Programmer and my favourite language is Java.</p>
 <img align="right" src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif">
 <ul>
   <li>👋 Hi, I’m Eli</li>
@@ -45,10 +45,6 @@ const eli = {
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eli-scorpio&repo=Vancouver-Bus-Transport-System&theme=onedark"/>
 </a>
-
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eli-scorpio&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="eli-scorpio"></a></p>
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
