@@ -9,7 +9,7 @@
 <ul>
   <li>👋 Hi, I’m Eli</li>
   <li>❤️ I love solving problems and programming in Java.</li>
-  <li>📚 I’m currently learning React, MySQL, AI, Flex&Bison, OpenMp and SSE intrinsics.</li>
+  <li>📚 I’m currently learning React, MySQL, AI, Flex and Bison</li>
   <li>💼 I'm a Demonstrator at Trinity College Dublin.</li>
   <li>💻 LinkedIn Website, https://www.linkedin.com/in/eligijus-skersonas/</li>
 </ul>
@@ -18,12 +18,12 @@
 ```javascript
 const eli = {
   pronouns: "He" | "Him",
-  code: ["Java", "C/C++", "MySQL", "Haskell", "Prolog"],
-  askMeAbout: ["algorithms & data stuctures", "computer architecture"],
+  code: ["Java", "C", "MySQL", "Haskell", "Python", "Prolog"],
+  askMeAbout: ["Algorithms&DataStructures", "ComputerArchitecture"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-      backend: ["Java", "Haskell", "MySQL", "C/C++", "Python"],
-      other: ["Docker", "Git", "SSE intrinsics", "OpendMP"],
+     frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
+     backend: ["Java", "Haskell", "MySQL", "C", "Python", "Prolog"],
+     other: ["Docker", "Git", "SSEintrinsics", "OpendMP"],
   }
 }
 ```
