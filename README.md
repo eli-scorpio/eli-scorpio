@@ -9,7 +9,7 @@
 <ul>
   <li>👋 Hi, I’m Eli</li>
   <li>❤️ I love solving problems and programming in Java.</li>
-  <li>📚 I’m currently learning React, MySQL, AI, Flex and Bison</li>
+  <li>📚 I’m currently learning React</li>
   <li>💼 I'm a Demonstrator at Trinity College Dublin.</li>
   <li>💻 LinkedIn Website, https://www.linkedin.com/in/eligijus-skersonas/</li>
 </ul>
