@@ -1,50 +1,35 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/eli-scorpio">Eligijus Skersonas'</a> Profile <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
+  <h1 align="center">Hi my name is <a href="https://github.com/eli-scorpio">Eligijus Skersonas </a><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;I'm+a+Competitive+Programmer;My+Favourite+Language+is+Java" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Software+Engineer+@+SIG;BA(Hons)+in+Computer+Science"/></a>
 </p>
-<p>I am a Computer Science Student, Competitive Programmer and my favourite language is Java.</p>
 <img align="right" src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif">
-<ul>
-  <li>👋 Hi, I’m Eli</li>
-  <li>❤️ I love solving problems and programming in Java.</li>
-  <li>📚 I’m currently learning React</li>
-  <li>💼 I'm a Demonstrator at Trinity College Dublin.</li>
-  <li>💻 LinkedIn Website, https://www.linkedin.com/in/eligijus-skersonas/</li>
-</ul>
+<p>💼 Software Engineer at Susquehanna International Group</p>
+<p>🏅 Honours Bachelor of Arts in Computer Science (First Class Honours)</p>
+<p></p>❤️ I love solving problems</p>
+<p>📚 My favourite language is C++</p>
+<p>💻 LinkedIn: https://www.linkedin.com/in/eligijus-skersonas/</p>
 
 #### A little more about me
 ```javascript
 const eli = {
-  pronouns: "He" | "Him",
-  code: ["Java", "C", "MySQL", "Haskell", "Python", "Prolog"],
-  askMeAbout: ["Algos&DataStructures", "ComputerArchitecture"],
+  languages: ['Java', 'C#', 'C++', 'MySQL', 'Python'],
   technologies: {
-    frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-    backend: ["Java", "Haskell", "C", "Python", "Prolog"],
-    other: ["Docker", "SSEintrinsics", "OpendMP", "MySQL"],
+    frontend: ['HTML', 'CSS', 'JS', 'Bootstrap', 'Blazor'],
+    backend: ['Java', 'C#', 'C++', 'Python'],
+    databases: ['MySQL']
   }
 }
 ```
 
-#### Cool Facts :octocat:
+#### Facts About Me:octocat:
 > 🏆 Competed in Google HashCode
  > 
 > 🥇 Recipient of the Entrance Exhibition Award by Trinity College Dublin
  > 
-> 🏅 On track to recieve a first class honours 
+> 🏅 Received a first class honours every year during college
  > 
-
-#### Top Projects
-<a href="https://github.com/eli-scorpio/ToY-Compiler">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eli-scorpio&repo=ToY-Compiler&theme=onedark" />
-</a>    
-<a href="https://github.com/eli-scorpio/Vancouver-Bus-Transport-System">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eli-scorpio&repo=Vancouver-Bus-Transport-System&theme=onedark"/>
-</a>
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
